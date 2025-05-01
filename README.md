@@ -17,3 +17,5 @@ UPCOMING CHANGES:
 3. Start at boot System wide
 4. Malware Analysis Detection
 5. Medium Anti-Malware bypass
+6. AI implementation to capture more sensitive info
+7. Face Recongition feature added into webcam features
