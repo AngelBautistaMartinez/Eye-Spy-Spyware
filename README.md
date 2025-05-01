@@ -7,4 +7,6 @@ Eye Spy Spyware in a Python CLI based spyware that allows you to:
 
 It lets you decide which action to perform, what time, and for how long, All using arguments.
 All you need is a command shell and you will be able to use all the options. No need for RDP or having to install applications in the machine.
-It will record the user, make a file which then is saved to a hidden file in the machine, sent to the attacker via SSH and then the file will self delete
+It will record the user, make a file which then is saved to a hidden file in the machine, sent to the attacker via SSH and then the file will self delete.
+<img width="956" alt="Screenshot 2025-05-01 041219" src="https://github.com/user-attachments/assets/30c7528f-71aa-4f59-845e-89434f083ff2" />
+
