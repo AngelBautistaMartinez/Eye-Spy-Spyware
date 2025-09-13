@@ -10,12 +10,3 @@ All you need is a command shell and you will be able to use all the options. No 
 It will record the user, make a file which then is saved to a hidden file in the machine, sent to the attacker via SSH and then the file will self delete.
 If the machine does not have python installed you can also convert it to a EXE with pyinstaller
 <img width="956" alt="Screenshot 2025-05-01 041219" src="https://github.com/user-attachments/assets/30c7528f-71aa-4f59-845e-89434f083ff2" />
-
-UPCOMING CHANGES:
-1. obfuscation
-2. Connection via HTTP/S
-3. Start at boot System wide
-4. Malware Analysis Detection
-5. Medium Anti-Malware bypass
-6. AI implementation to capture more sensitive info
-7. Face Recongition feature added into webcam features
